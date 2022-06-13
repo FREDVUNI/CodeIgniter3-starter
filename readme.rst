@@ -1,4 +1,8 @@
 ###################
+Set up the database in application/config/database.php
+###################
+
+###################
 What is CodeIgniter
 ###################
 
